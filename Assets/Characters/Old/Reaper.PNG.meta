@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: d7029aa9152a53742b1d1d2439de34cc
+timeCreated: 1452724636
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Reaper_0
+    21300002: Reaper_1
+    21300004: Reaper_2
+    21300006: Reaper_3
+    21300008: Reaper_4
+    21300010: Reaper_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Reaper_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 28
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 58}
+        - {x: -35, y: 47}
+        - {x: -51, y: 33}
+        - {x: -52, y: 26}
+        - {x: -52, y: -28}
+        - {x: -12, y: -49}
+        - {x: 17, y: -58}
+        - {x: 50, y: -58}
+        - {x: 52, y: -39}
+        - {x: 52, y: 54}
+        - {x: 40, y: 58}
+    - name: Reaper_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 28
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 58}
+        - {x: -52, y: -58}
+        - {x: 52, y: -58}
+        - {x: 52, y: 58}
+    - name: Reaper_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 28
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 58}
+        - {x: -52, y: -58}
+        - {x: 52, y: -58}
+        - {x: 52, y: 58}
+    - name: Reaper_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 28
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 58}
+        - {x: -11, y: 49}
+        - {x: -13, y: 39}
+        - {x: -14, y: 9}
+        - {x: -24, y: 28}
+        - {x: -44, y: 44}
+        - {x: -54, y: 18}
+        - {x: -54, y: -40}
+        - {x: -33, y: -56}
+        - {x: -10, y: -56}
+        - {x: -9, y: -58}
+        - {x: 12, y: -58}
+        - {x: 36, y: -48}
+        - {x: 54, y: -16}
+        - {x: 54, y: 55}
+        - {x: 51, y: 58}
+    - name: Reaper_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 28
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 58}
+        - {x: -37, y: 57}
+        - {x: -54, y: 40}
+        - {x: -54, y: 9}
+        - {x: -39, y: -47}
+        - {x: -16, y: -58}
+        - {x: 53, y: -58}
+        - {x: 54, y: -53}
+        - {x: 54, y: 31}
+        - {x: 15, y: 58}
+    - name: Reaper_5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 28
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 58}
+        - {x: 2, y: 58}
+        - {x: -10, y: 46}
+        - {x: -15, y: 39}
+        - {x: -18, y: 8}
+        - {x: -24, y: 35}
+        - {x: -37, y: 38}
+        - {x: -52, y: 28}
+        - {x: -52, y: -36}
+        - {x: -28, y: -48}
+        - {x: -8, y: -48}
+        - {x: -6, y: -46}
+        - {x: -6, y: -40}
+        - {x: -6, y: -58}
+        - {x: 7, y: -58}
+        - {x: 31, y: -35}
+        - {x: 52, y: -8}
+        - {x: 52, y: 52}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: ddb21339ecb9cfa4e9bd0194079c2d35
+timeCreated: 1453162019
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI 1.0_0
+    21300002: UI 1.0_1
+    21300004: UI 1.0_2
+    21300006: UI 1.0_3
+    21300008: UI 1.0_4
+    21300010: UI 1.0_5
+    21300012: UI 1.0_6
+    21300014: UI 1.0_7
+    21300016: UI 1.0_8
+    21300018: UI 1.0_9
+    21300020: UI 1.0_10
+    21300022: UI 1.0_11
+    21300024: UI 1.0_12
+    21300026: UI 1.0_13
+    21300028: UI 1.0_14
+    21300030: UI 1.0_15
+    21300032: UI 1.0_16
+    21300034: UI 1.0_17
+    21300036: UI 1.0_18
+    21300038: UI 1.0_19
+    21300040: UI 1.0_20
+    21300042: UI 1.0_21
+    21300044: UI 1.0_22
+    21300046: UI 1.0_23
+    21300048: UI 1.0_24
+    21300050: UI 1.0_25
+    21300052: UI 1.0_26
+    21300054: UI 1.0_27
+    21300056: UI 1.0_28
+    21300058: UI 1.0_29
+    21300060: UI 1.0_30
+    21300062: UI 1.0_31
+    21300064: UI 1.0_32
+    21300066: UI 1.0_33
+    21300068: UI 1.0_34
+    21300070: UI 1.0_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI 1.0_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 370
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 362
+        width: 122
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 16}
+        - {x: -61, y: -16}
+        - {x: 61, y: -16}
+        - {x: 61, y: 16}
+    - name: UI 1.0_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 368
+        width: 200
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 346
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 324
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 16}
+        - {x: -54, y: -16}
+        - {x: 54, y: -16}
+        - {x: 54, y: 16}
+    - name: UI 1.0_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 336
+        width: 200
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 302
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 16}
+        - {x: -66, y: -16}
+        - {x: 66, y: -16}
+        - {x: 66, y: 16}
+    - name: UI 1.0_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 304
+        width: 200
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 264
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 16}
+        - {x: -40, y: -16}
+        - {x: 40, y: -16}
+        - {x: 40, y: 16}
+    - name: UI 1.0_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 262
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 16}
+        - {x: -44, y: -16}
+        - {x: 44, y: -16}
+        - {x: 44, y: 16}
+    - name: UI 1.0_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 272
+        width: 200
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI 1.0_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 226
+        width: 122
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 16}
+        - {x: -61, y: -16}
+        - {x: 61, y: -16}
+        - {x: 61, y: 16}
+    - name: UI 1.0_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 226
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 16}
+        - {x: -44, y: -16}
+        - {x: 44, y: -16}
+        - {x: 44, y: 16}
+    - name: UI 1.0_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -61}
+        - {x: -52, y: -64}
+        - {x: 56, y: -64}
+        - {x: 64, y: -42}
+        - {x: 64, y: 37}
+        - {x: 40, y: 64}
+    - name: UI 1.0_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -61}
+        - {x: -52, y: -64}
+        - {x: 56, y: -64}
+        - {x: 64, y: -42}
+        - {x: 64, y: 37}
+        - {x: 40, y: 64}
+    - name: UI 1.0_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 36
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -61}
+        - {x: -52, y: -64}
+        - {x: 56, y: -64}
+        - {x: 64, y: -42}
+        - {x: 64, y: 37}
+        - {x: 40, y: 64}
+    - name: UI 1.0_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 345
+        width: 164
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 0}
+        - {x: -74, y: -23}
+        - {x: 72, y: -23}
+        - {x: 72, y: 0}
+      - - {x: -82, y: 23}
+        - {x: -82, y: 0}
+        - {x: 45, y: 0}
+        - {x: 46, y: 5}
+        - {x: 46, y: 23}
+      - - {x: 50, y: 23}
+        - {x: 50, y: 0}
+        - {x: 75, y: 0}
+        - {x: 80, y: 7}
+        - {x: 80, y: 23}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

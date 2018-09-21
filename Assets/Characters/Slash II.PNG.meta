@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 2330d8d7374f44742b5c4703b445ab37
+timeCreated: 1454885502
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slash!_0
+    21300002: Slash!_1
+    21300004: Slash!_2
+    21300006: Slash!_3
+    21300008: Slash!_4
+    21300010: Slash!_5
+    21300012: Slash!_6
+    21300014: Slash!_7
+    21300016: Slash!_8
+    21300018: Slash!_9
+    21300020: Slash!_10
+    21300022: Slash!_11
+    21300024: Slash!_12
+    21300026: Slash!_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Slash!_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 492
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 68}
+        - {x: -42, y: 40}
+        - {x: -42, y: -30}
+        - {x: -35, y: -42}
+        - {x: 3, y: -68}
+        - {x: 42, y: -68}
+        - {x: 42, y: 68}
+    - name: Slash!_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 492
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 68}
+        - {x: -42, y: -68}
+        - {x: 8, y: -68}
+        - {x: 42, y: -47}
+        - {x: 42, y: 37}
+        - {x: 26, y: 68}
+    - name: Slash!_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 540
+        width: 136
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -11}
+        - {x: 65, y: 4}
+        - {x: 43, y: 37}
+        - {x: 19, y: 42}
+        - {x: -28, y: 42}
+        - {x: -68, y: -3}
+        - {x: -68, y: -42}
+        - {x: -62, y: -42}
+        - {x: -58, y: -39}
+        - {x: 8, y: -42}
+        - {x: 68, y: -42}
+    - name: Slash!_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 496
+        width: 136
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 42}
+        - {x: -68, y: 6}
+        - {x: -67, y: -5}
+        - {x: -44, y: -39}
+        - {x: -24, y: -42}
+        - {x: 39, y: -42}
+        - {x: 66, y: -8}
+        - {x: 68, y: -1}
+        - {x: 68, y: 42}
+    - name: Slash!_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 332
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 68}
+        - {x: -42, y: 40}
+        - {x: -42, y: -30}
+        - {x: -35, y: -42}
+        - {x: 3, y: -68}
+        - {x: 42, y: -68}
+        - {x: 42, y: 68}
+    - name: Slash!_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 332
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -24}
+        - {x: 40, y: -16}
+        - {x: 42, y: -11}
+        - {x: 42, y: 18}
+        - {x: 30, y: 38}
+        - {x: 6, y: 66}
+        - {x: 2, y: 68}
+        - {x: -42, y: 68}
+        - {x: -42, y: -68}
+        - {x: -14, y: -68}
+        - {x: 3, y: -64}
+        - {x: 20, y: -47}
+        - {x: 28, y: -36}
+    - name: Slash!_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 384
+        width: 136
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -42}
+        - {x: 68, y: -11}
+        - {x: 65, y: 4}
+        - {x: 43, y: 37}
+        - {x: 19, y: 42}
+        - {x: -28, y: 42}
+        - {x: -68, y: -3}
+        - {x: -68, y: -42}
+        - {x: -62, y: -42}
+        - {x: -58, y: -39}
+        - {x: -15, y: -3}
+        - {x: 56, y: -42}
+    - name: Slash!_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 336
+        width: 136
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 42}
+        - {x: -68, y: 6}
+        - {x: -67, y: -5}
+        - {x: -44, y: -39}
+        - {x: -24, y: -42}
+        - {x: 39, y: -42}
+        - {x: 66, y: -8}
+        - {x: 68, y: -1}
+        - {x: 68, y: 42}
+    - name: Slash!_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 168
+        width: 72
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 72}
+        - {x: -28, y: 45}
+        - {x: -36, y: 25}
+        - {x: -36, y: -31}
+        - {x: -31, y: -61}
+        - {x: 6, y: -72}
+        - {x: 36, y: -72}
+        - {x: 36, y: 72}
+    - name: Slash!_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 72
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 72}
+        - {x: -36, y: -72}
+        - {x: 3, y: -72}
+        - {x: 36, y: -36}
+        - {x: 36, y: 45}
+        - {x: -6, y: 72}
+    - name: Slash!_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 240
+        width: 144
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 36}
+        - {x: -26, y: 36}
+        - {x: -29, y: 35}
+        - {x: -41, y: 27}
+        - {x: -71, y: 4}
+        - {x: -72, y: -5}
+        - {x: -72, y: -36}
+        - {x: 72, y: -36}
+        - {x: 72, y: -7}
+        - {x: 70, y: 3}
+    - name: Slash!_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 168
+        width: 144
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 36}
+        - {x: -72, y: -3}
+        - {x: -35, y: -36}
+        - {x: 32, y: -36}
+        - {x: 72, y: -11}
+        - {x: 72, y: 36}
+    - name: Slash!_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 72}
+        - {x: -72, y: 64}
+        - {x: -72, y: -61}
+        - {x: -42, y: -72}
+        - {x: 57, y: -72}
+        - {x: 72, y: -43}
+        - {x: 72, y: 35}
+        - {x: 50, y: 72}
+    - name: Slash!_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 72}
+        - {x: -72, y: 64}
+        - {x: -72, y: -61}
+        - {x: -42, y: -72}
+        - {x: 57, y: -72}
+        - {x: 72, y: -43}
+        - {x: 72, y: 35}
+        - {x: 50, y: 72}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

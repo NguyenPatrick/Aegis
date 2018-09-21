@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 2e8c1694983557e498476b6b0a2d19e8
+timeCreated: 1454898754
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Desert King_0
+    21300002: Desert King_1
+    21300004: Desert King_2
+    21300006: Desert King_3
+    21300008: Desert King_4
+    21300010: Desert King_5
+    21300012: Desert King_6
+    21300014: Desert King_7
+    21300016: Desert King_8
+    21300018: Desert King_9
+    21300020: Desert King_10
+    21300022: Desert King_11
+    21300024: Desert King_12
+    21300026: Desert King_13
+    21300028: Desert King_14
+    21300030: Desert King_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Desert King_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 548
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 68}
+        - {x: 3, y: 69}
+        - {x: -7, y: 59}
+        - {x: -22, y: 82}
+        - {x: -46, y: 82}
+        - {x: -48, y: 77}
+        - {x: -48, y: 52}
+        - {x: -44, y: 48}
+        - {x: -48, y: 1}
+        - {x: -42, y: -82}
+        - {x: 47, y: -82}
+        - {x: 48, y: -66}
+        - {x: 48, y: 33}
+    - name: Desert King_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 548
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -78}
+        - {x: 10, y: -72}
+        - {x: 10, y: -82}
+        - {x: 43, y: -82}
+        - {x: 48, y: -61}
+        - {x: 48, y: 48}
+        - {x: 26, y: 73}
+        - {x: -7, y: 82}
+        - {x: -48, y: 82}
+        - {x: -48, y: 52}
+        - {x: -44, y: 48}
+        - {x: -48, y: 1}
+        - {x: -42, y: -82}
+        - {x: 6, y: -82}
+    - name: Desert King_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 548
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -78}
+        - {x: -9, y: -82}
+        - {x: 48, y: -82}
+        - {x: 48, y: 81}
+        - {x: 45, y: 82}
+        - {x: 25, y: 82}
+        - {x: 18, y: 76}
+        - {x: 23, y: 47}
+        - {x: -3, y: 70}
+        - {x: -21, y: 69}
+        - {x: -27, y: 63}
+        - {x: -48, y: 38}
+        - {x: -48, y: -62}
+        - {x: -45, y: -82}
+        - {x: -10, y: -82}
+        - {x: -10, y: -74}
+        - {x: -12, y: -72}
+        - {x: -10, y: -72}
+    - name: Desert King_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 548
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 81}
+        - {x: 45, y: 82}
+        - {x: 24, y: 82}
+        - {x: 18, y: 76}
+        - {x: 23, y: 47}
+        - {x: -3, y: 70}
+        - {x: -17, y: 82}
+        - {x: -38, y: 82}
+        - {x: -48, y: 53}
+        - {x: -48, y: -82}
+        - {x: 18, y: -82}
+        - {x: 22, y: -63}
+        - {x: 30, y: -82}
+        - {x: 48, y: -82}
+    - name: Desert King_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 368
+        width: 96
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 64}
+        - {x: -18, y: 86}
+        - {x: -48, y: 86}
+        - {x: -48, y: -85}
+        - {x: -46, y: -86}
+        - {x: 43, y: -86}
+        - {x: 48, y: -80}
+        - {x: 48, y: 21}
+        - {x: 35, y: 47}
+    - name: Desert King_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 368
+        width: 96
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -86}
+        - {x: 48, y: -65}
+        - {x: 48, y: 43}
+        - {x: 25, y: 67}
+        - {x: -13, y: 86}
+        - {x: -48, y: 86}
+        - {x: -48, y: -85}
+        - {x: -34, y: -86}
+        - {x: 9, y: -86}
+        - {x: 10, y: -82}
+        - {x: 10, y: -76}
+        - {x: 10, y: -86}
+    - name: Desert King_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 368
+        width: 96
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -82}
+        - {x: -9, y: -86}
+        - {x: 48, y: -86}
+        - {x: 48, y: 84}
+        - {x: 45, y: 86}
+        - {x: 21, y: 86}
+        - {x: 18, y: 80}
+        - {x: 23, y: 51}
+        - {x: -3, y: 66}
+        - {x: -21, y: 65}
+        - {x: -27, y: 59}
+        - {x: -48, y: 34}
+        - {x: -48, y: -66}
+        - {x: -45, y: -86}
+        - {x: -10, y: -86}
+        - {x: -10, y: -78}
+        - {x: -12, y: -76}
+        - {x: -10, y: -76}
+    - name: Desert King_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 368
+        width: 96
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 86}
+        - {x: 25, y: 86}
+        - {x: 18, y: 80}
+        - {x: 23, y: 51}
+        - {x: -3, y: 66}
+        - {x: -21, y: 65}
+        - {x: -48, y: 70}
+        - {x: -48, y: -86}
+        - {x: 35, y: -86}
+        - {x: 47, y: -79}
+        - {x: 48, y: -57}
+        - {x: 48, y: 81}
+    - name: Desert King_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 188
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 82}
+        - {x: -48, y: 82}
+        - {x: -48, y: -82}
+        - {x: 48, y: -82}
+        - {x: 48, y: 46}
+        - {x: 46, y: 58}
+    - name: Desert King_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 188
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 82}
+        - {x: -48, y: 82}
+        - {x: -48, y: 52}
+        - {x: -44, y: 48}
+        - {x: -48, y: 1}
+        - {x: -42, y: -82}
+        - {x: 44, y: -82}
+        - {x: 48, y: -62}
+        - {x: 48, y: 46}
+        - {x: 26, y: 73}
+    - name: Desert King_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 188
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 82}
+        - {x: 18, y: 76}
+        - {x: 23, y: 47}
+        - {x: -3, y: 70}
+        - {x: -21, y: 69}
+        - {x: -27, y: 63}
+        - {x: -48, y: 38}
+        - {x: -48, y: -62}
+        - {x: -45, y: -82}
+        - {x: 48, y: -82}
+        - {x: 48, y: 81}
+        - {x: 45, y: 82}
+    - name: Desert King_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 188
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 82}
+        - {x: 18, y: 76}
+        - {x: 23, y: 47}
+        - {x: -3, y: 70}
+        - {x: -21, y: 69}
+        - {x: -27, y: 63}
+        - {x: -30, y: 59}
+        - {x: -48, y: 25}
+        - {x: -48, y: -82}
+        - {x: 48, y: -82}
+        - {x: 48, y: 81}
+        - {x: 45, y: 82}
+    - name: Desert King_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 68}
+        - {x: 3, y: 69}
+        - {x: -7, y: 59}
+        - {x: -22, y: 82}
+        - {x: -46, y: 82}
+        - {x: -48, y: 77}
+        - {x: -48, y: 52}
+        - {x: -44, y: 48}
+        - {x: -48, y: 34}
+        - {x: -48, y: -82}
+        - {x: 46, y: -82}
+        - {x: 48, y: -63}
+        - {x: 48, y: 25}
+        - {x: 35, y: 51}
+    - name: Desert King_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 8
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 41}
+        - {x: 26, y: 73}
+        - {x: 0, y: 68}
+        - {x: -7, y: 59}
+        - {x: -22, y: 82}
+        - {x: -46, y: 82}
+        - {x: -48, y: 77}
+        - {x: -48, y: 52}
+        - {x: -44, y: 48}
+        - {x: -48, y: 1}
+        - {x: -42, y: -82}
+        - {x: 34, y: -82}
+        - {x: 45, y: -81}
+        - {x: 48, y: -62}
+    - name: Desert King_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 8
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 82}
+        - {x: 18, y: 76}
+        - {x: 23, y: 47}
+        - {x: -3, y: 70}
+        - {x: -22, y: 73}
+        - {x: -48, y: 31}
+        - {x: -48, y: -65}
+        - {x: -33, y: -82}
+        - {x: 48, y: -82}
+        - {x: 48, y: 81}
+        - {x: 45, y: 82}
+    - name: Desert King_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 8
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 82}
+        - {x: 18, y: 76}
+        - {x: 23, y: 47}
+        - {x: -2, y: 74}
+        - {x: -30, y: 66}
+        - {x: -48, y: 31}
+        - {x: -48, y: -57}
+        - {x: -46, y: -78}
+        - {x: -22, y: -82}
+        - {x: 48, y: -82}
+        - {x: 48, y: 81}
+        - {x: 45, y: 82}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
