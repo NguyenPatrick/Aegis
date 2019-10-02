@@ -13,5 +13,3 @@ the end of the map, it's game over. Built using Unity 3D and C#.
 
 ![Picture 5](Pictures/Aegis5.png)
 
-![Picture 6](Pictures/Aegis6.png)
-
